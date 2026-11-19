@@ -1,0 +1,102 @@
+record_id,book_id,book_title,category,borrower_id,loan_date,due_date,return_date,month,is_open,days_past_due,is_overdue
+L001,B004,Python Crash Course,Technology,Student002,2025-01-26,2025-02-09,2025-02-03,2025-01,False,0,False
+L002,B004,Python Crash Course,Technology,Student003,2026-07-13,2026-07-20,2026-07-18,2026-07,False,0,False
+L003,B001,The Silent Patient,Thriller,Student004,2025-04-06,2025-04-20,2025-04-29,2025-04,False,0,False
+L004,B001,The Silent Patient,Thriller,Student005,2026-07-29,2026-08-12,,2026-07,True,99,True
+L005,B018,Deep Work,Self Help,Student006,2026-03-06,2026-03-20,2026-03-18,2026-03,False,0,False
+L006,B001,The Silent Patient,Thriller,Student007,2025-06-13,2025-07-04,2025-06-21,2025-06,False,0,False
+L007,B007,The Hobbit,Fantasy,Student008,2025-12-11,2025-12-18,2025-12-18,2025-12,False,0,False
+L008,B012,Ikigai,Self Help,Student009,2025-12-19,2026-01-16,2025-12-25,2025-12,False,0,False
+L009,B015,The Psychology of Money,Finance,Student010,2026-07-04,2026-07-11,,2026-07,True,131,True
+L010,B013,Harry Potter and the Sorcerer's Stone,Fantasy,Student011,2025-03-22,2025-04-19,2025-04-18,2025-03,False,0,False
+L011,B019,Dune,Science Fiction,Student012,2025-07-16,2025-07-23,2025-07-27,2025-07,False,0,False
+L012,B010,Clean Code,Technology,Student013,2025-03-23,2025-04-06,,2025-03,True,592,True
+L013,B013,Harry Potter and the Sorcerer's Stone,Fantasy,Student014,2025-10-12,2025-11-02,2025-10-27,2025-10,False,0,False
+L014,B006,Pride and Prejudice,Classic,Student015,2026-01-15,2026-01-29,2026-01-27,2026-01,False,0,False
+L015,B003,The Alchemist,Fiction,Student016,2026-09-16,2026-09-30,2026-09-27,2026-09,False,0,False
+L016,B006,Pride and Prejudice,Classic,Student017,2026-04-19,2026-05-10,2026-05-22,2026-04,False,0,False
+L017,B018,Deep Work,Self Help,Student018,2025-08-13,2025-08-27,,2025-08,True,449,True
+L018,B002,Atomic Habits,Self Help,Student019,2025-08-23,2025-08-30,,2025-08,True,446,True
+L019,B013,Harry Potter and the Sorcerer's Stone,Fantasy,Student020,2025-10-02,2025-10-09,2025-10-16,2025-10,False,0,False
+L020,B007,The Hobbit,Fantasy,Student021,2026-11-03,2026-11-24,2026-12-06,2026-11,False,0,False
+L021,B015,The Psychology of Money,Finance,Student022,2025-05-27,2025-06-10,2025-06-17,2025-05,False,0,False
+L022,B018,Deep Work,Self Help,Student023,2025-09-27,2025-10-25,2025-10-26,2025-09,False,0,False
+L023,B012,Ikigai,Self Help,Student024,2025-08-13,2025-08-27,2025-08-19,2025-08,False,0,False
+L024,B002,Atomic Habits,Self Help,Student025,2025-04-23,2025-05-07,2025-05-18,2025-04,False,0,False
+L025,B014,The Great Gatsby,Classic,Student026,2026-09-03,2026-09-10,2026-09-21,2026-09,False,0,False
+L026,B017,To Kill a Mockingbird,Classic,Student027,2025-09-15,2025-10-13,,2025-09,True,402,True
+L027,B001,The Silent Patient,Thriller,Student028,2025-04-28,2025-05-26,,2025-04,True,542,True
+L028,B011,Educated,Biography,Student029,2025-04-25,2025-05-09,2025-05-13,2025-04,False,0,False
+L029,B001,The Silent Patient,Thriller,Student030,2025-09-27,2025-10-25,,2025-09,True,390,True
+L030,B017,To Kill a Mockingbird,Classic,Student031,2025-04-19,2025-05-03,,2025-04,True,565,True
+L031,B017,To Kill a Mockingbird,Classic,Student032,2026-09-16,2026-09-30,2026-09-25,2026-09,False,0,False
+L032,B018,Deep Work,Self Help,Student033,2026-06-28,2026-07-05,2026-07-17,2026-06,False,0,False
+L033,B001,The Silent Patient,Thriller,Student034,2025-04-25,2025-05-09,,2025-04,True,559,True
+L034,B010,Clean Code,Technology,Student035,2025-09-03,2025-09-10,2025-09-09,2025-09,False,0,False
+L035,B003,The Alchemist,Fiction,Student036,2026-05-13,2026-05-20,,2026-05,True,183,True
+L036,B018,Deep Work,Self Help,Student037,2025-05-09,2025-05-23,2025-05-30,2025-05,False,0,False
+L037,B006,Pride and Prejudice,Classic,Student001,2025-09-29,2025-10-27,,2025-09,True,388,True
+L038,B014,The Great Gatsby,Classic,Student002,2025-08-05,2025-09-02,,2025-08,True,443,True
+L039,B007,The Hobbit,Fantasy,Student003,2025-11-16,2025-12-07,,2025-11,True,347,True
+L040,B012,Ikigai,Self Help,Student004,2026-03-25,2026-04-22,2026-04-13,2026-03,False,0,False
+L041,B008,Sapiens,History,Student005,2025-03-07,2025-03-21,2025-03-28,2025-03,False,0,False
+L042,B008,Sapiens,History,Student006,2026-08-26,2026-09-09,2026-09-21,2026-08,False,0,False
+L043,B002,Atomic Habits,Self Help,Student007,2025-08-23,2025-08-30,,2025-08,True,446,True
+L044,B011,Educated,Biography,Student008,2025-03-14,2025-04-11,2025-04-18,2025-03,False,0,False
+L045,B007,The Hobbit,Fantasy,Student009,2026-07-07,2026-07-21,,2026-07,True,121,True
+L046,B019,Dune,Science Fiction,Student010,2026-08-14,2026-09-04,2026-09-02,2026-08,False,0,False
+L047,B014,The Great Gatsby,Classic,Student011,2025-07-14,2025-07-21,2025-07-31,2025-07,False,0,False
+L048,B012,Ikigai,Self Help,Student012,2026-03-10,2026-03-31,2026-04-06,2026-03,False,0,False
+L049,B002,Atomic Habits,Self Help,Student013,2026-11-01,2026-11-08,2026-11-15,2026-11,False,0,False
+L050,B004,Python Crash Course,Technology,Student014,2025-09-12,2025-09-26,2025-09-30,2025-09,False,0,False
+L051,B005,Introduction to Algorithms,Technology,Student015,2026-03-09,2026-03-23,2026-03-20,2026-03,False,0,False
+L052,B003,The Alchemist,Fiction,Student016,2026-03-30,2026-04-27,2026-05-07,2026-03,False,0,False
+L053,B001,The Silent Patient,Thriller,Student017,2025-04-06,2025-04-20,2025-04-25,2025-04,False,0,False
+L054,B016,The Martian,Science,Student018,2025-08-07,2025-08-28,,2025-08,True,448,True
+L055,B006,Pride and Prejudice,Classic,Student019,2026-01-24,2026-01-31,,2026-01,True,292,True
+L056,B009,A Brief History of Time,Science,Student020,2026-04-11,2026-04-25,2026-05-02,2026-04,False,0,False
+L057,B016,The Martian,Science,Student021,2025-06-08,2025-06-22,2025-06-13,2025-06,False,0,False
+L058,B019,Dune,Science Fiction,Student022,2026-07-10,2026-07-17,,2026-07,True,125,True
+L059,B002,Atomic Habits,Self Help,Student023,2025-02-21,2025-03-21,2025-03-30,2025-02,False,0,False
+L060,B006,Pride and Prejudice,Classic,Student024,2025-02-28,2025-03-28,2025-03-15,2025-02,False,0,False
+L061,B003,The Alchemist,Fiction,Student025,2026-09-02,2026-09-09,2026-09-13,2026-09,False,0,False
+L062,B013,Harry Potter and the Sorcerer's Stone,Fantasy,Student026,2025-05-03,2025-05-31,2025-05-09,2025-05,False,0,False
+L063,B020,The Diary of a Young Girl,Biography,Student027,2025-03-25,2025-04-15,2025-04-16,2025-03,False,0,False
+L064,B017,To Kill a Mockingbird,Classic,Student028,2025-11-20,2025-12-04,2025-12-16,2025-11,False,0,False
+L065,B011,Educated,Biography,Student029,2025-09-02,2025-09-16,2025-09-27,2025-09,False,0,False
+L066,B010,Clean Code,Technology,Student030,2026-04-14,2026-04-28,,2026-04,True,205,True
+L067,B003,The Alchemist,Fiction,Student031,2025-01-10,2025-01-31,2025-02-01,2025-01,False,0,False
+L068,B004,Python Crash Course,Technology,Student032,2025-03-17,2025-04-14,2025-04-06,2025-03,False,0,False
+L069,B005,Introduction to Algorithms,Technology,Student033,2025-12-24,2025-12-31,,2025-12,True,323,True
+L070,B012,Ikigai,Self Help,Student034,2025-10-19,2025-11-02,2025-11-09,2025-10,False,0,False
+L071,B010,Clean Code,Technology,Student035,2026-09-19,2026-10-17,2026-10-28,2026-09,False,0,False
+L072,B010,Clean Code,Technology,Student036,2026-11-11,2026-11-18,,2026-11,True,1,True
+L073,B005,Introduction to Algorithms,Technology,Student037,2025-09-28,2025-10-05,,2025-09,True,410,True
+L074,B018,Deep Work,Self Help,Student001,2025-06-09,2025-06-23,2025-06-19,2025-06,False,0,False
+L075,B011,Educated,Biography,Student002,2025-07-28,2025-08-11,2025-08-09,2025-07,False,0,False
+L076,B002,Atomic Habits,Self Help,Student003,2025-04-05,2025-04-26,,2025-04,True,572,True
+L077,B002,Atomic Habits,Self Help,Student004,2025-01-04,2025-01-18,,2025-01,True,670,True
+L078,B009,A Brief History of Time,Science,Student005,2025-06-15,2025-07-06,2025-07-02,2025-06,False,0,False
+L079,B018,Deep Work,Self Help,Student006,2025-01-10,2025-01-17,2025-01-18,2025-01,False,0,False
+L080,B018,Deep Work,Self Help,Student007,2025-02-06,2025-02-20,2025-02-14,2025-02,False,0,False
+L081,B014,The Great Gatsby,Classic,Student008,2025-05-11,2025-05-18,2025-05-16,2025-05,False,0,False
+L082,B012,Ikigai,Self Help,Student009,2025-08-04,2025-08-18,2025-08-19,2025-08,False,0,False
+L083,B018,Deep Work,Self Help,Student010,2026-02-21,2026-03-21,,2026-02,True,243,True
+L084,B008,Sapiens,History,Student011,2025-06-16,2025-06-30,,2025-06,True,507,True
+L085,B001,The Silent Patient,Thriller,Student012,2025-07-03,2025-07-17,,2025-07,True,490,True
+L086,B014,The Great Gatsby,Classic,Student013,2025-09-12,2025-09-26,2025-10-08,2025-09,False,0,False
+L087,B004,Python Crash Course,Technology,Student014,2026-01-27,2026-02-03,,2026-01,True,289,True
+L088,B008,Sapiens,History,Student015,2025-07-24,2025-08-14,2025-08-23,2025-07,False,0,False
+L089,B008,Sapiens,History,Student016,2025-08-17,2025-08-24,2025-09-02,2025-08,False,0,False
+L090,B011,Educated,Biography,Student017,2025-10-13,2025-10-20,,2025-10,True,395,True
+L091,B009,A Brief History of Time,Science,Student018,2025-12-26,2026-01-23,2026-02-02,2025-12,False,0,False
+L092,B011,Educated,Biography,Student019,2025-01-29,2025-02-05,,2025-01,True,652,True
+L093,B009,A Brief History of Time,Science,Student020,2025-07-02,2025-07-30,,2025-07,True,477,True
+L094,B009,A Brief History of Time,Science,Student021,2025-02-09,2025-02-16,2025-02-24,2025-02,False,0,False
+L095,B011,Educated,Biography,Student022,2026-03-23,2026-04-20,,2026-03,True,213,True
+L096,B004,Python Crash Course,Technology,Student023,2026-01-30,2026-02-27,2026-02-05,2026-01,False,0,False
+L097,B014,The Great Gatsby,Classic,Student024,2025-01-02,2025-01-30,,2025-01,True,658,True
+L098,B018,Deep Work,Self Help,Student025,2025-07-21,2025-08-04,2025-08-15,2025-07,False,0,False
+L099,B011,Educated,Biography,Student026,2026-10-01,2026-10-15,2026-10-08,2026-10,False,0,False
+L100,B010,Clean Code,Technology,Student027,2026-06-04,2026-06-18,2026-06-18,2026-06,False,0,False
+L102,B008,Sapiens,Unknown,Unknown,2026-05-12,2026-05-26,,2026-05,True,177,True

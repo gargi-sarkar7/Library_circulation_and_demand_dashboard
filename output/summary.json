@@ -1,0 +1,15 @@
+{
+    "total_valid_records": 101,
+    "unique_books_borrowed": 20,
+    "open_loans": 35,
+    "currently_overdue_loans": 35,
+    "alerts_more_than_7_days_late": 34,
+    "alerts_more_than_14_days_late": 34,
+    "data_quality": {
+        "rows_before_cleaning": 102,
+        "duplicate_record_ids_removed": 1,
+        "missing_categories_filled": 1,
+        "missing_borrower_ids_filled": 1,
+        "rows_after_cleaning": 101
+    }
+}
